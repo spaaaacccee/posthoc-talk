@@ -68,7 +68,7 @@ https://pathfinding.ai/posthoc-icaps25/
 
 ---
 
-# 1. Visualisation for search
+# Visualisation for search
 
 ---
 
@@ -150,7 +150,7 @@ Also
 
 ---
 
-# 2. The Posthoc project
+# The Posthoc project
 
 ---
 
